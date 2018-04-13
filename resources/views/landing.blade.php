@@ -6,22 +6,10 @@
 	<title>HOLY FLOCK OF CHRIST, YOUTH</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="designed by OgundeindeAdedamola " />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="keywords" content="Holy Flock of Christ, YOUTH, HFC, youth" />
 	<meta name="author" content="" />
 
-	<!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by 
-		
-	Website: 		#
-	Email: 			info@
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
+	
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
